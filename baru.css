@@ -92,7 +92,7 @@
       color: rgb(42, 42, 146);
 }
 .container_1 h2{
-      font-family:'Courier New', Courier, monospace;
+      font-family :sans-serif;
       margin-top: 30px;
       font-weight: 500;
       margin-left: 10px;
@@ -127,14 +127,14 @@
 
 
 .tab-title{
-      font-family:'Courier New', Courier, monospace;
+      font-family :sans-serif;
       display: flex;
       margin: 3vh 10px 10px;
     
       justify-content: space-between;
 }
 .tab-links{
-      font-family:'Courier New', Courier, monospace;
+      font-family :sans-serif;
       font-size: 12px;
       font-weight: 500;
       cursor: pointer;
@@ -159,7 +159,7 @@
       font-weight: 500;
       margin: 15px 0;
       font-size: 11px;
-      font-family:'Courier New', Courier, monospace;
+      font-family :sans-serif;
   
   }
   .tab-contents ul li span{
