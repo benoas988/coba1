@@ -17,7 +17,7 @@ function opentab(tabname){
 
 
 var tentang = document.getElementById("tentang");
-var target = document.querySelector(".tab-title");
+var target = document.querySelector(".container_1");
 
 tentang.addEventListener("click", function(event){
       event.preventDefault();
